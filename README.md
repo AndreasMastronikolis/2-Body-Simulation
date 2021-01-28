@@ -3,4 +3,4 @@ This is a simulation that shows the evolution of a Keplerian two-body system aft
 
 # The Physics Behind the Project
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textbf{F} = -G \frac{Mm}{|\textbf{r} - \textbf{r'}|^3} (\textbf{r} - \textbf{r'} )" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textbf{F} = -G \frac{Mm}{1}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
